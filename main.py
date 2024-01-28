@@ -11,7 +11,6 @@ def distance(coord1, coord2):
     Returns:
     - Distance in kilometers.
     """
-
     # Radius of the Earth in kilometers
     R = 6371.0
 
